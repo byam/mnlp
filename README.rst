@@ -6,6 +6,9 @@ mnlp
 
 MNLP: Mongolian Natural Language Processing.
 
+https://pypi.org/project/mnlp/
+
+
 Install
 ----------------------
 
@@ -24,3 +27,7 @@ Usage
 
     print(mnlp.stopwords.words())
     # >> ['нь', 'ч', 'л', 'ба']
+
+License
+----------------------
+MIT
