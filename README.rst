@@ -1,6 +1,9 @@
 mnlp
 =====
 
+.. image:: https://travis-ci.com/byam/mnlp.svg?branch=master
+:target: https://travis-ci.com/byam/mnlp
+
 MNLP: Mongolian Natural Language Processing.
 
 Install
