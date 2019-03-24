@@ -1,0 +1,1 @@
+from .stopwords import words

@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+import mnlp
+
+print(mnlp.stopwords.words())
