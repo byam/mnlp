@@ -28,6 +28,11 @@ Usage
     print(mnlp.stopwords.words())
     # >> ['нь', 'ч', 'л', 'ба']
 
+- Testing
+.. code-block:: console
+
+    $ python -m unittest discover
+
 License
 ----------------------
 MIT
